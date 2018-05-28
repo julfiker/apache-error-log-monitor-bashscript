@@ -10,8 +10,8 @@ curl -X POST -H 'Content-type: application/json' \
   $url 
 
 ```  
-Befor use this you need to install following package into the system
-Install into the ubuntu  
+Befor use this you need to install following package into the system   
+Example to install into the ubuntu  
 
 ```
 sudo apt-get udpate
@@ -31,6 +31,6 @@ sh script.sh /var/log/apache/error.log
 
 You need to pass full path of logs file in aguments    
 
-Thanks you
-If you need any help on this regards,
-Please send an email to mail.julfiker@gmail.com
+Enjoy :)   
+If you need any help on this regards,  
+Please send an email to mail.julfiker@gmail.com  
